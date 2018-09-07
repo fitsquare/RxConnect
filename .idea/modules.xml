@@ -3,8 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RxConnect.iml" filepath="$PROJECT_DIR$/RxConnect.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rxconnectlib/rxconnect2.iml" filepath="$PROJECT_DIR$/rxconnectlib/rxconnect2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxconnectlib/rxconnectlib.iml" filepath="$PROJECT_DIR$/rxconnectlib/rxconnectlib.iml" />
     </modules>
   </component>
 </project>
